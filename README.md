@@ -41,3 +41,7 @@ The project is organized into two main tasks:
 - Database Management: pymongo (MongoDB)
 - Cloud Storage & Back Up: google colab and google drive
   
+## 🛠 How to Run the Project  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/Shakilat10/Data_Transformation)and_Management/blob/main/README.md
