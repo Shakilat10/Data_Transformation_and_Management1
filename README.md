@@ -40,9 +40,3 @@ The project is organized into two main tasks:
 - Data Visualization: matplotlib, seaborn
 - Database Management: pymongo (MongoDB)
 - Cloud Storage & Back Up: google colab and google drive
-  
-## 🛠 How to Run the Project  
-1. Clone this repository:  
-https://github.com/Shakilat10/Data_Transformation_and_Management1/blob/main/612-Assessment2.ipynb
-
- 
