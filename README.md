@@ -43,5 +43,6 @@ The project is organized into two main tasks:
   
 ## 🛠 How to Run the Project  
 1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Shakilat10/Data_Transformation)and_Management/blob/main/README.md
+https://github.com/Shakilat10/Data_Transformation_and_Management1/blob/main/612-Assessment2.ipynb
+
+ 
